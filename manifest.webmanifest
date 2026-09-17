@@ -1,0 +1,9 @@
+{
+  "name": "Jakten på det sorte gull",
+  "short_name": "Sorte gull",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "description": "Sammenlign priser på Cola Zero og Pepsi Max med vanlig pris, tilbud og medlemskupp."
+}
