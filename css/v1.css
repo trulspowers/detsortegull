@@ -11,3 +11,4 @@ linear-gradient(135deg,#0b0805 0%,#050504 45%,#0b0704 72%,#030303 100%);backgrou
 body:after{background:linear-gradient(180deg,rgba(0,0,0,.05) 0%,rgba(0,0,0,.18) 42%,rgba(5,5,4,.72) 78%,#070706 100%),radial-gradient(ellipse at 50% 8%,transparent 0%,rgba(0,0,0,.18) 68%,rgba(0,0,0,.42) 100%)}
 .hero{position:relative}.hero:before{content:"";position:absolute;left:50%;top:12px;transform:translateX(-50%);width:min(920px,90vw);height:270px;z-index:-1;background:radial-gradient(ellipse,rgba(211,174,93,.08),transparent 68%);filter:blur(8px);pointer-events:none}
 @media(max-width:560px){body:before{background-size:auto,auto,90px 90px,130px 130px,170px 170px,auto}.hero{padding-top:34px}.filters,.card{background:linear-gradient(180deg,rgba(28,25,21,.92),rgba(10,10,9,.97))}}
+.price-row.unavailable{opacity:.64}.price-row.unavailable .amount{color:var(--muted)}.price-row.unavailable .price-meta small{font-style:italic}
