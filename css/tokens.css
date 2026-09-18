@@ -1,0 +1,18 @@
+:root {
+  --black: #070706;
+  --surface: rgba(15,14,11,.92);
+  --surface-soft: rgba(25,23,19,.78);
+  --gold: #d3ae5d;
+  --gold-light: #e6c979;
+  --cream: #f3efe5;
+  --muted: #aaa69d;
+  --green: #8fe3a8;
+  --gold-border: rgba(211,174,93,.30);
+  --line: rgba(255,255,255,.12);
+  --radius-card: 24px;
+  --radius-control: 999px;
+  --content-width: 1180px;
+  --shadow: 0 28px 80px rgba(0,0,0,.46);
+  --font-ui: -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",sans-serif;
+  --font-display: Georgia,"Times New Roman",serif;
+}
