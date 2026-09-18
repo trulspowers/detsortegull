@@ -10,3 +10,5 @@ body:after{background:linear-gradient(180deg,rgba(3,3,2,.16) 0%,rgba(4,4,3,.22) 
 /* Screenshot-driven polish */
 .cards{align-items:start}.card{align-self:start;min-height:0}.price-list{align-content:start}.price-row{min-height:58px}.hero{padding-top:54px}.hero h1{text-shadow:0 8px 40px rgba(0,0,0,.92)}
 @media(max-width:560px){body:before{background-position:center 20%;background-attachment:scroll;filter:saturate(.9) contrast(1.08) brightness(.5)}}
+
+.offer-badge{display:inline-block;padding:2px 6px;border-radius:999px;background:rgba(143,227,168,.12);border:1px solid rgba(143,227,168,.28);color:var(--green);font-size:9px;font-weight:800;letter-spacing:.08em}.price-row.is-offer{border-color:rgba(143,227,168,.22);background:linear-gradient(90deg,rgba(143,227,168,.07),rgba(255,255,255,.018))}.price-row.is-offer .amount{color:var(--green)}
